@@ -4,13 +4,47 @@
 
 
 <h5> Understand core concepts related to Configuration Management </h5>
+It is a set of tracking and controlling activities that are initiated when software engineering process begins and terminates when software is taken out of operation.
 <h5> Identity traditional and modern components and practices related to configuration management</h5>
+
+Traditional <br>
+- Identify all items related to software.
+- Manage changes to those items.
+- Enable variations of items and changes. 
+- Maintain quality of versions and releases.
+- Provide traceability between changes and requirements.
+
+Modern <br>
+
+- configuration tools
+- git, branches
+- package managers
+- task and build managers
+- build machines, virtual environments (dev stacks)
+- containers
+- data migration
+- Other issues: orchestration, inventory, compliance
 <h5> Explain issues related to (not using configuration management)</h5>
+
+- Tracking application dependency would be pain
+
 <h5> Design and apply configuration management concepts to a project.</h5>
 <h5> Explain differences between continuous integration, deployment, and delivery</h5>
+
+- continuous integration: A practice where developers automatically build, test, and analyze a software change in response to every software change committed to the source repository.
+- continuous deployment: ready to be deployed
+- continuous delivery: deployed
 <h5> Explain operations responsibility models and team values</h5>
 <h5> 10 Adages Paper</h5>
 <h5> Explain concepts related to vagrant, and ansible</h5>
+Vagrant: An interface for interacting with virtual machines.
+
+- Works with a VM provider (e.g. VirtualBox)
+- Public repository of images.
+- Vagrantfile is a specification that configures image
+
+Ansible: Ansible is software that automates software provisioning, configuration management, and application deployment
+
 <h5> Describe principles, benefits, and issues related to adopting continuous integration</h5>
 <h5> Design a build server</h5>
 

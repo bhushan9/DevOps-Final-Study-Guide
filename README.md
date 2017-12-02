@@ -46,6 +46,25 @@ Vagrant: An interface for interacting with virtual machines.
 Ansible: Ansible is software that automates software provisioning, configuration management, and application deployment
 
 <h5> Describe principles, benefits, and issues related to adopting continuous integration</h5>
+Principles:
+
+- Maintain code repo
+- Automate build, test
+- Everyone commit gets built
+- Automate deployment
+
+Benefits:
+
+- Enforce discipline of automated testing
+- Immediate feedback
+- Developers write good quality code becase of different metrics in the pipeline
+
+Issues:
+
+- Constructing pipeline requires significant amount of work
+- Not needed if the project is small.
+- Value added depends on the quality of tests and how testable the code really is.
+
 <h5> Design a build server</h5>
 
 ### Testing

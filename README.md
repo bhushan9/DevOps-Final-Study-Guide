@@ -70,9 +70,18 @@ Issues:
 ### Testing
 
 <h5> List and define different types of testing (e.g. acceptance testing vs integration testing)</h5>
+Unit Testing: testing each function
+Integration: testing multiple modules and their connectivity
+System: Testing whole system
+Acceptance: System does what it is intented for
 <h5> Compare and contrast testing methods</h5>
 <h5> Explain flaky tests, test priorization, and test management concepts.</h5>
+Flaky tests: Tests fail randomly
+Test Priortization: Random ordering, Effectiveness i.e time since last failure, order by test coverage and metrics i.e cost etc.
+
 <h5> Explain automated test generation </h5>
+Tests generation is automated i.e constraint based testing.
+
 <h5> Calculate basic constraints for test generation</h5>
 <h5> Compare different fuzzing techniques.</h5>
 <h5> List ways to seed fuzzing.</h5>

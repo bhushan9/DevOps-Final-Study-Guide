@@ -93,11 +93,30 @@ Tests generation is automated i.e constraint based testing.
 <h5> Understand metrics, including complexity, OO, and other techniques.</h5>
 <h5> Understand and derive program graph from code snippet.</h5>
 <h5> Define line, branch, condition, coverage.</h5>
+line: how many loc were executed.
+branch: how many branches were executed.
+condition: how many conditions were executed.
 <h5> Explain subsumption and why and when one type of coverage may subsume another.</h5>
+branch & condition coverage -> branch coverage -> statement coverage
+branch & condition coverage -> condition coverage
 <h5> Calculate line, branch, condition coverage.</h5>
 <h5> Identify other kinds of coverage: path coverage, mutation testing, data-flow coverage.</h5>
+Path Coverage:
+mutation testing:
+data-flow coverage:
 <h5> Identify several uses cases for static analysis.</h5>
+
+- message chains
+- nested loop limit
+- long methods
 <h5> Explain issues and benefits related to static analysis (e.g. versus dynamic analysis or verification.).</h5>
+static analysis
+- easy to implement because it is done on source code
+
+
+dynamic analysis:
+- difficult to implement since it looks for program behaviour
+
 <h5> Implement static analysis for measuring errors or code quality measures.</h5>
 
 

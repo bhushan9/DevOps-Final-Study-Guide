@@ -1,6 +1,6 @@
-# DevOps-Final-Study-Guide
 
-### Configuration Management/Core Concepts/Build
+
+# Configuration Management/Core Concepts/Build
 
 
 <h5> Understand core concepts related to Configuration Management </h5>
@@ -67,7 +67,7 @@ Issues:
 
 <h5> Design a build server</h5>
 
-### Testing
+# Testing
 
 <h5> List and define different types of testing (e.g. acceptance testing vs integration testing)</h5>
 Unit Testing: testing each function
@@ -88,7 +88,7 @@ Tests generation is automated i.e constraint based testing.
 <h5> Explain Benefits and problems of fuzzing.</h5>
 <h5> Understand alternative testing techninques such as natural language techniques.</h5>
 
-### Analysis
+# Analysis
 
 <h5> Understand metrics, including complexity, OO, and other techniques.</h5>
 <h5> Understand and derive program graph from code snippet.</h5>
@@ -120,7 +120,7 @@ dynamic analysis:
 <h5> Implement static analysis for measuring errors or code quality measures.</h5>
 
 
-### Deployment/Infrastructure
+# Deployment/Infrastructure
 
 <h5> Identity Deployment Strategies</h5>
 <h5> Compare and contrast deployment strategies (issues/benefits)</h5>
@@ -134,7 +134,7 @@ dynamic analysis:
 <h5> Design and apply infrastructure concepts for the design of a scalable and resilence application.</h5>
 <h5> Describe how to implement a deployment strategy</h5>
 
-### Analysis + Monitoring
+# Analysis + Monitoring
 
 <h5> Understand monitoring concepts and metrics</h5>
 <h5> Understand resilience testing, failure injection, and chaos engineering</h5>

@@ -160,6 +160,15 @@ Cloud keeps multiple replicas of storage. If one of the storage resources fails,
 
 <h5> Understand monitoring concepts and metrics</h5>
 <h5> Understand resilience testing, failure injection, and chaos engineering</h5>
+Resilience testing: Resilience testing, in particular, is a crucial step in ensuring applications perform well in real-life conditions. It is part of the non-functional sector of software testing that also includes compliance testing, endurance testing, load testing, recovery testing and others.
+
+Failure injection: deliberately breaking things to test our production systems, Doing so lets us validate our assumptions and prove that our mechanisms for handling failure will work when called upon
+e.g. Simian Army
+
+Chaos engieering: Chaos Engineering is the discipline of experimenting on a distributed system
+in order to build confidence in the system’s capability
+to withstand turbulent conditions in production.
+
 <h5> Implementing a flame graph representation from data</h5>
 <h5> Describing how to implement basic monkey concepts</h5>
 <h5> Design a monitoring and analysis system</h5>

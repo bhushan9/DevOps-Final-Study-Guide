@@ -123,9 +123,14 @@ dynamic analysis:
 # Deployment/Infrastructure
 
 <h5> Identity Deployment Strategies</h5>
+Green/Blue
+Dark Launches
 <h5> Compare and contrast deployment strategies (issues/benefits)</h5>
 <h5> Feature Flags</h5>
 <h5> Understand staging and feature branch deployment</h5>
+Staging: The process of building confidence in a proposed deployment candidate in the context of a production-like environment. Can involve a mixture of automated and manual vetting.
+
+feature branch deployment: every feature is a branch and a developer works on it. Use of feature flags in this, so that merging becomes easy.
 <h5> Understand how to use docker for deployment and infrastructure design</h5>
 <h5> Identity components of cloud infrastructure</h5>
 <h5> Explain underlying issues related to infrastructure components</h5>

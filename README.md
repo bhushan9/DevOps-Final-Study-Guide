@@ -133,6 +133,23 @@ Staging: The process of building confidence in a proposed deployment candidate i
 feature branch deployment: every feature is a branch and a developer works on it. Use of feature flags in this, so that merging becomes easy.
 <h5> Understand how to use docker for deployment and infrastructure design</h5>
 <h5> Identity components of cloud infrastructure</h5>
+Hypervisor
+Hypervisor is a firmware or low-level program that acts as a Virtual Machine Manager. It allows to share the single physical instance of cloud resources between several tenants.
+
+Management Software
+It helps to maintain and configure the infrastructure.
+
+Deployment Software
+It helps to deploy and integrate the application on the cloud.
+
+Network
+It is the key component of cloud infrastructure. It allows to connect cloud services over the Internet. It is also possible to deliver network as a utility over the Internet, which means, the customer can customize the network route and protocol.
+
+Server
+The server helps to compute the resource sharing and offers other services such as resource allocation and de-allocation, monitoring the resources, providing security etc.
+
+Storage
+Cloud keeps multiple replicas of storage. If one of the storage resources fails, then it can be extracted from another one, which makes cloud computing more reliable.
 <h5> Explain underlying issues related to infrastructure components</h5>
 <h5> Understand microservices</h5>
 <h5> Implement basic redis commands</h5>

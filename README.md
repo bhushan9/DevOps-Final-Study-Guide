@@ -87,7 +87,12 @@ Tests generation is automated i.e constraint based testing.
 generative: test input is randomly created and can be guided by grammars.
 mutation: test input is modified randomly.
 <h5> List ways to seed fuzzing.</h5>
+Manual: user provides seed
+Automated: best seed selection based on different input
 <h5> Explain Benefits and problems of fuzzing.</h5>
+Benefits: Allows to explore corner cases
+
+Problems: may generate high number of cases which cause the same bug
 <h5> Understand alternative testing techninques such as natural language techniques.</h5>
 
 # Analysis

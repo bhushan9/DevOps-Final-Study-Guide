@@ -104,7 +104,7 @@ line: how many loc were executed.
 branch: how many branches were executed.
 condition: how many conditions were executed.
 <h5> Explain subsumption and why and when one type of coverage may subsume another.</h5>
-branch & condition coverage -> branch coverage -> statement coverage
+branch & condition coverage -> branch coverage -> statement coverage <br>
 branch & condition coverage -> condition coverage
 <h5> Calculate line, branch, condition coverage.</h5>
 <h5> Identify other kinds of coverage: path coverage, mutation testing, data-flow coverage.</h5>

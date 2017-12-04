@@ -84,6 +84,8 @@ Tests generation is automated i.e constraint based testing.
 
 <h5> Calculate basic constraints for test generation</h5>
 <h5> Compare different fuzzing techniques.</h5>
+generative: test input is randomly created and can be guided by grammars.
+mutation: test input is modified randomly.
 <h5> List ways to seed fuzzing.</h5>
 <h5> Explain Benefits and problems of fuzzing.</h5>
 <h5> Understand alternative testing techninques such as natural language techniques.</h5>

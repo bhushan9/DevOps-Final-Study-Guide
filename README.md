@@ -132,6 +132,8 @@ dynamic analysis:
 <h5> Identity Deployment Strategies</h5>
 Green/Blue
 Dark Launches
+Feature flags
+Rolling update
 <h5> Compare and contrast deployment strategies (issues/benefits)</h5>
 <h5> Feature Flags</h5>
 <h5> Understand staging and feature branch deployment</h5>

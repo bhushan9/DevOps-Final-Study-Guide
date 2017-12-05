@@ -108,9 +108,9 @@ branch & condition coverage -> branch coverage -> statement coverage <br>
 branch & condition coverage -> condition coverage
 <h5> Calculate line, branch, condition coverage.</h5>
 <h5> Identify other kinds of coverage: path coverage, mutation testing, data-flow coverage.</h5>
-Path Coverage:
-mutation testing:
-data-flow coverage:
+Path Coverage: 
+mutation testing: Modify source code then carry out regular testing.
+data-flow coverage: check how the data is flowing i.e x = 5 is one statemnet and the y = x. this is data flow
 <h5> Identify several uses cases for static analysis.</h5>
 
 - message chains
